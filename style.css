@@ -51,7 +51,7 @@ body{
 center h4{
     font-family: Birthstone;
     font-size: 50px;
-    transform: translateY(-90px);
+    transform: translateY(-70px);
     margin-bottom: 15px;
 }
 
@@ -68,7 +68,7 @@ center h4{
     width: 100%;
     justify-content: center;
     align-items: center;
-    transform: translateY(-90px);
+    transform: translateY(-60px);
     margin-bottom: 15px;
 }
 
