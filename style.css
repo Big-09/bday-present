@@ -52,6 +52,7 @@ center h4{
     font-family: Birthstone;
     font-size: 50px;
     transform: translateY(-90px);
+    margin-bottom: 15px;
 }
 
 .ordinal{
@@ -68,6 +69,7 @@ center h4{
     justify-content: center;
     align-items: center;
     transform: translateY(-90px);
+    margin-bottom: 15px;
 }
 
 .text{
@@ -120,7 +122,7 @@ h5:nth-of-type(2){
     height: 50px;
     width: 50px;
     position: absolute;
-    top: 90%;
+    top: 80%;
     left: 10px;
     border: none;
     border-radius: 50%;
